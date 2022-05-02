@@ -1,0 +1,21 @@
+A Empresa Chewbacca Systens Solution solicitou a você programador que desenvolva, juntamente com um 
+novo colega de empresa, um sistema para controle de livros para a biblioteca integalatica de Kashyyk.
+
+Para tanto, determinou três entregas que deverão se integrar ao final dos trabalhos. 
+São elas:
+
+1. Analise e desenvolvimento de Classes Java para Livro:
+	A classe em questão deve conter os seguintes atribulos: ISBN, Titulo, Autor, QtdPaginas
+
+
+2. Lista Automatizada:
+	Construir uma Classe Java que armazene varios Livros, para tanto a lista deverá possuir métodos para Adicionar, Alterar, Excluir e Recuperar/localizar os objetos Livro planejados no exercício anterior.
+
+3. Menu de navegação das funcionalidades de:
+	O Menu deve ser "amigavel" ao usuário, fazendo pergundas para tornar a navegação na aplicação fluida. 
+	Exemplo: 
+	Qual operação você deseja realizar? (Digite: 1.Novo Cadastro, 2.Alterar Cadastro, 3.Excluir Cadastro, 9.Sair do Sistema.)
+	
+	Quando o usuário escolher uma opção o sistema deverá fazer novas perguntas para o correto funcionamento da função.
+	
+	Obs 1. Você poderá utilizar alguma estrutura de repetição para garantir que o usuário possa fazer várias operações sem ter que sair do sistema, bem como sair da repetição quando escolher a opção 9, por exemplo.
