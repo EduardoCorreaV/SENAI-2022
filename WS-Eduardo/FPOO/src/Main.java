@@ -4,7 +4,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		Turma turma = new Turma("1DN", 2, 4);
-		System.out.println("O nome da sau turma é: " + turma.nome);
+		System.out.println("O nome da sua turma é: " + turma.nome);
 
 		turma.alunos[0] = new Aluno("Eduardo", "111.222.333.44");
 		turma.alunos[1] = new Aluno("Lais", "222.333.444-55");
